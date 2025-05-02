@@ -3,7 +3,8 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<HTE>'s Stats](https://github-readme-stats.vercel.app/api?username=<HakeemTheEmperor>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![HTE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakeemTheEmperor)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 About Me
 
