@@ -1,5 +1,5 @@
 
-# Hi, I'm <Toluwalase Akinyemi>! 👋
+# Hi, I'm **Toluwalase Akinyemi** [HTE] 👋
 
 I'm a software developer who loves diving into new projects and learning something new every day. I'm always up for a challenge and excited to see what I can build. If it's believed to be possible, I'll try it out, if not, I'll still try it out 😂😂😂
 
