@@ -9,7 +9,7 @@ I'm a software developer who loves diving into new projects and learning somethi
 ## 🚀 About Me
 
 * 💻 **Full-Stack Dev:** Happily getting lost in the weeds of front-end, back-end, and everything in between. Fluent in various tech stacks.
-* 🧠 **Self-Taught & Stubborn:** My main instructors? Stack Overflow, Documentation, Various YouTube tutorials (Mosh Hamedani, Jonas Schmedtmann, Angela Yu...) and a refusal to quit. Driven by figuring out *why* things break (and then fixing them).
+* 🧠 **Self-Taught & Stubborn:** My main instructors? Stack Overflow, Documentation, Various tutorials (Mosh Hamedani, Jonas Schmedtmann, Angela Yu...) and a refusal to quit. Driven by figuring out *why* things break (and then fixing them).
 * 🎓 **CS50x Survivor:** Went toe-to-toe with Harvard's CS50x and emerged victorious (mostly intact). Still have nightmares about pointers and memory management 😭😭😭.
 
 ## Tech Stack
