@@ -10,7 +10,7 @@ I'm a software developer who loves diving into new projects and learning somethi
 
 * 💻 **Full-Stack Dev:** Happily getting lost in the weeds of front-end, back-end, and everything in between. Fluent in various tech stacks.
 * 🧠 **Self-Taught & Stubborn:** My main instructors? Stack Overflow, Documentation, Various tutorials (Mosh Hamedani, Jonas Schmedtmann, Angela Yu...) and a refusal to quit. Driven by figuring out *why* things break (and then fixing them).
-* 🎓 **CS50x Survivor:** Went toe-to-toe with Harvard's CS50x and emerged victorious (mostly intact). Still have nightmares about pointers and memory management 😭😭😭.
+* 🎓 **CS50x Survivor:** Went toe-to-toe with Harvard's CS50x and emerged victorious (mostly intact, just don't mention pointers or memory management to me and we'll be cool) 😭😭😭.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,py,sass,react,tailwind,docker,dotnet,postgres,mysql,mongodb,nodejs,nestjs,bootstrap)](https://skillicons.dev)
