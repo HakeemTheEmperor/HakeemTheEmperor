@@ -3,7 +3,7 @@
 
 I'm a software developer who loves diving into new projects and learning something new every day. I'm always up for a challenge and excited to see what I can build. If it's believed to be possible, I'll try it out, if not, I'll still try it out 😂😂😂
 
-| ![HTE's Github Stats](https://hte-github-statsss-cpgt6cefo-hakeemtheemperors-projects.vercel.app/api?username=HakeemTheEmperor&show_icons=true&theme=radical) | ![Top Langs](https://hte-github-statsss-cpgt6cefo-hakeemtheemperors-projects.vercel.app/api/top-langs/?username=HakeemTheEmperor&langs_count=8&theme=radical&layout=compact) |
+| ![HTE's Github Stats](https://hte-github-statsss.vercel.app/api?username=HakeemTheEmperor&show_icons=true&theme=radical) | ![Top Langs](https://hte-github-statsss.vercel.app/api/top-langs/?username=HakeemTheEmperor&langs_count=8&theme=radical&layout=compact) |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 🚀 About Me
