@@ -16,8 +16,8 @@ I'm a software developer who loves diving into new projects and learning somethi
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,py,sass,react,tailwind,docker,dotnet,postgres,mysql,mongodb,nodejs,nestjs,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-* 🤖 **AI Engineering Explorer:** Dipping my toes into AI. Current mission: Figure out how neural networks *actually* work. Endgame: Building F.R.I.D.A.Y. (Should be simple enough, right?).
-* 🌐 **Web3 Curious:** Venturing down the blockchain rabbit hole. Still figuring out if 'decentralized' just means 'more confusing'. Accepting explainer donations (or ETH).
+* 🤖 **AI Engineering:** Dipping my toes into AI. Current mission: Figure out how neural networks *actually* work. Endgame: Building F.R.I.D.A.Y. (Should be simple enough, right?).
+* 🌐 **Web3:** Venturing down the blockchain rabbit hole. Still figuring out if 'decentralized' just means 'more confusing'. Accepting explainer donations (or ETH).
 
 ## 📬 Get in Touch
 
