@@ -22,7 +22,7 @@ I'm a software developer who loves diving into new projects and learning somethi
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/toluwalase-akinyemi-hte/)
-- Check out my [Website](https://htedev.vercel.app/)
+- Check out my [Website](https://www.toluwalase.me/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
