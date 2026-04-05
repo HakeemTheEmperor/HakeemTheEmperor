@@ -13,7 +13,7 @@ I'm a software developer who loves diving into new projects and learning somethi
 * 🎓 **CS50x Survivor:** Went toe-to-toe with Harvard's CS50x and emerged victorious (mostly intact, just don't mention pointers or memory management to me and we'll be cool) 😭😭😭.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,py,sass,react,tailwind,docker,dotnet,postgres,mysql,mongodb,nodejs,nestjs,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,py,react,nextjs,nestjs,fastapi,flask,tailwind,docker,dotnet,postgres,mysql,mongodb,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 * 🤖 **AI Engineering:** Dipping my toes into AI. Current mission: Figure out how neural networks *actually* work. Endgame: Building F.R.I.D.A.Y. (Should be simple enough, right?).
